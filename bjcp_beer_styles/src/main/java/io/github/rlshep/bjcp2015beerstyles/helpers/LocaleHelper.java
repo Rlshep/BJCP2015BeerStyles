@@ -20,7 +20,7 @@ public class LocaleHelper {
         this.c = context;
     }
 
-    public String getLanguage() {
+    public String getSystemLanguage() {
         String language = DEFAULT_LANGUAGE;
 
         try {

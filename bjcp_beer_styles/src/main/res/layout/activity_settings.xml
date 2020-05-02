@@ -98,6 +98,29 @@
                     android:text="@string/ebc" />
             </RadioGroup>
         </TableRow>
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="25dp"
+                android:layout_marginRight="15dp"
+                android:id="@+id/settingLanguage"
+                android:text="@string/settings_language"
+                android:textColor="@color/darkTextColor"
+                android:textStyle="bold"/>
+
+            <Spinner
+                android:id="@+id/settings_lang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            </Spinner>
+        </TableRow>
     </LinearLayout>
 </LinearLayout>
 

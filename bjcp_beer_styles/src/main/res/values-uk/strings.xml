@@ -19,7 +19,7 @@
     <string name="action_info">Про додаток</string>
     <string name="action_delete">Видалити</string>
     <string name="action_select_all">Обрати все</string>
-    <string name="app_name">Пивні стилі BJCP 2015</string>
+    <string name="app_name">Стилевий довідник BJCP 2015</string>
     <string name="beginSrm">Початок S R M дорівнює </string>
     <string name="color_amber"><b>Бурштиновий</b></string>
     <string name="color_black"><b>Чорний</b></string>
@@ -30,7 +30,7 @@
     <string name="color_deep_copper"><b>Темно-мідний/світло-брунатний</b></string>
     <string name="color_gold"><b>Золотий</b></string>
     <string name="color_header"><b>Колір</b></string>
-    <string name="color_yellow"><b>Жовний</b></string>
+    <string name="color_yellow"><b>Жовтий</b></string>
     <string name="color_opague"><b>Чорний, непрозорий</b></string>
     <string name="color_straw"><b>Солом’яний</b></string>
     <string name="color_very_dark_brown"><b>Дуже темний брунатний</b></string>
